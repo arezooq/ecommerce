@@ -12,16 +12,45 @@ The purpose of this project is to learn the subject of Authentication and Author
 * Open Goole Chrome
 * localhost:3000/api/v1/
 
-<img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538873/swagger%20ecommerce/swagger-ecommerce1_ztcogz.png" width="200" alt="swagger ecommerce" />
-<img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538878/swagger%20ecommerce/swagger-ecommerce2_mmcpwy.png" width="200" alt="swagger ecommerce" />
-<img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538881/swagger%20ecommerce/swagger-ecommerce3_zmxx35.png" width="200" alt="swagger ecommerce" />
-<img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538884/swagger%20ecommerce/swagger-ecommerce4_mdf8mu.png" width="200" alt="swagger ecommerce" />
+<img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538873/swagger%20ecommerce/swagger-ecommerce1_ztcogz.png" width="500" alt="swagger ecommerce" />
+<img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538878/swagger%20ecommerce/swagger-ecommerce2_mmcpwy.png" width="500" alt="swagger ecommerce" />
+<img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538881/swagger%20ecommerce/swagger-ecommerce3_zmxx35.png" width="500" alt="swagger ecommerce" />
+<img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538884/swagger%20ecommerce/swagger-ecommerce4_mdf8mu.png" width="500" alt="swagger ecommerce" />
 
 ## Installation
 
 ```bash
 $ yarn install
 ```
+
+## Cloning a repository 
+
+* On GitHub.com, navigate to the main page of the repository. [https://github.com/arezooq/ecommerce]
+* Above the list of files, click <>Code.
+
+* Copy the URL for the repository.
+
+To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click .
+
+  1. Open Terminal.
+
+  2. Change the current working directory to the location where you want the cloned directory.
+
+  3. Type git clone, and then paste the URL you copied earlier.
+
+    git clone git@github.com:arezooq/ecommerce.git
+
+  4. Press Enter to create your local clone.
+
+    git clone git@github.com:arezooq/ecommerce.git
+
+     Cloning into 'ecommerce'...
+     remote: Enumerating objects: 4522, done.
+     remote: Counting objects: 100% (4522/4522), done.
+     remote: Compressing objects: 100% (3371/3371), done.
+     remote: Total 4522 (delta 959), reused 4522 (delta 959), pack-reused 0
+     Receiving objects: 100% (4522/4522), 22.08 MiB | 2.38 MiB/s, done.
+     Resolving deltas: 100% (959/959), done.
 
 ## Running the app
 
