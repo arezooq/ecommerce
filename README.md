@@ -12,10 +12,10 @@ The purpose of this project is to learn the subject of Authentication and Author
 * Open Goole Chrome
 * localhost:3000/api/v1/
 
-<img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538873/swagger%20ecommerce/swagger-ecommerce1_ztcogz.png" width="500" alt="swagger ecommerce" />
-<img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538878/swagger%20ecommerce/swagger-ecommerce2_mmcpwy.png" width="500" alt="swagger ecommerce" />
-<img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538881/swagger%20ecommerce/swagger-ecommerce3_zmxx35.png" width="500" alt="swagger ecommerce" />
-<img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538884/swagger%20ecommerce/swagger-ecommerce4_mdf8mu.png" width="500" alt="swagger ecommerce" />
+<img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538873/swagger%20ecommerce/swagger-ecommerce1_ztcogz.png" width="800" alt="swagger ecommerce" />
+<img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538878/swagger%20ecommerce/swagger-ecommerce2_mmcpwy.png" width="800" alt="swagger ecommerce" />
+<img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538881/swagger%20ecommerce/swagger-ecommerce3_zmxx35.png" width="800" alt="swagger ecommerce" />
+<img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538884/swagger%20ecommerce/swagger-ecommerce4_mdf8mu.png" width="800" alt="swagger ecommerce" />
 
 ## Installation
 
