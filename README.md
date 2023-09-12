@@ -17,12 +17,6 @@ The purpose of this project is to learn the subject of Authentication and Author
 <img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538881/swagger%20ecommerce/swagger-ecommerce3_zmxx35.png" width="800" alt="swagger ecommerce" />
 <img src="https://res.cloudinary.com/dvli0xy5y/image/upload/v1694538884/swagger%20ecommerce/swagger-ecommerce4_mdf8mu.png" width="800" alt="swagger ecommerce" />
 
-## Installation
-
-```bash
-$ yarn install
-```
-
 ## Cloning a repository 
 
 * On GitHub.com, navigate to the main page of the repository. [https://github.com/arezooq/ecommerce]
@@ -51,6 +45,12 @@ To clone the repository using an SSH key, including a certificate issued by your
      remote: Total 4522 (delta 959), reused 4522 (delta 959), pack-reused 0
      Receiving objects: 100% (4522/4522), 22.08 MiB | 2.38 MiB/s, done.
      Resolving deltas: 100% (959/959), done.
+
+## Installation
+
+```bash
+$ yarn install
+```
 
 ## Running the app
 
